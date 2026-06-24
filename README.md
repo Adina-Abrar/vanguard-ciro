@@ -1,5 +1,7 @@
 <div align="center">
- [![CIRO Demo](thumbnail.jpg)](https://drive.google.com/file/d/1vJ1LTkq26Bl7PByj-wfubU7skSev2-G6/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1vJ1LTkq26Bl7PByj-wfubU7skSev2-G6/view?usp=sharing">
+  <img src="./thumbnail.jpg" alt="CIRO Demo" width="700">
+</a>
 </div>
 
 # Run and deploy your AI Studio app
