@@ -1,5 +1,5 @@
 <div align="center">
-   [![CIRO Demo](demo-thumbnail.png)](https://drive.google.com/file/d/1vJ1LTkq26Bl7PByj-wfubU7skSev2-G6/view?usp=sharings)
+   [![CIRO Demo](thumbnail.jpg)](https://drive.google.com/file/d/1vJ1LTkq26Bl7PByj-wfubU7skSev2-G6/view?usp=sharings)
 </div>
 
 # Run and deploy your AI Studio app
