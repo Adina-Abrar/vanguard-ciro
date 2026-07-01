@@ -12,7 +12,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/83a9ebc9-e140-4167-a26c-99281bdad4d9
+View your app in AI Studio: https://vanguard-ciro-268969262451.us-central1.run.app/
 
 ## Run Locally
 
